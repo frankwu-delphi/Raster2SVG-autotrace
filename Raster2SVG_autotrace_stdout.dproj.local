@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/23 17:41:47.000.459,=C:\Users\Frank.Wu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 09:22:25.000.428,=C:\Users\Frank.Wu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 09:47:44.000.742,=C:\Users\Frank.Wu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 09:49:43.000.297,C:\Users\Frank.Wu\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Raster2SVG\delphi\Unit1.dfm</Transaction>
+    <Transaction>2021/07/19 09:49:43.000.297,C:\Users\Frank.Wu\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Raster2SVG\delphi\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 09:49:48.000.022,C:\Users\Frank.Wu\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Raster2SVG\delphi\stdout.dproj</Transaction>
+    <Transaction>2021/07/22 08:20:38.000.562,F:\Programs\Delphi\Projects\QuickLauncher\QuickLauncher 2.0 VCL\Test\Raster2SVG-StdOut\stdout.dproj=F:\Programs\Delphi\Projects\QuickLauncher\QuickLauncher 2.0 VCL\Test\Raster2SVG-StdOut\Raster2SVG_autotrace_stdout.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
